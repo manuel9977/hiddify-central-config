@@ -1,0 +1,1 @@
+sudo bash -c "$(curl -Lfo- https://raw.githubusercontent.com/hiddify/hiddify-central-config/main/common/download_install.sh)"sudo bash -c "$(curl -Lfo- https://raw.githubusercontent.com/hiddify/hiddify-central-config/main/common/download_install.sh)"sudo bash -c "$(curl -Lfo- https://raw.githubusercontent.com/hiddify/hiddify-central-config/main/common/download_install.sh)"
